@@ -2,4 +2,3 @@
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning with Codecademy
 - 💞️ I’m looking to collaborate on beginner level projects
-- 📫 You can contact me via this site. 
